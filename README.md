@@ -14,7 +14,7 @@ Hello! I am a passionate developer eager to contribute to open source and build 
 ## Projects
 
 ### Project 1: Serverguard 
-[GitHub Repository]([https://github.com/yourusername/awesome-project](https://github.com/cedirusyaid/serverguard))
+[GitHub Repository]([https://github.com/yourusername/awesome-project](https://github.com/cedirusyaid/serverguard)])
 
 ### Project 2: monitor server  
 [GitHub Repository]([https://github.com/cedirusyaid/another-cool-project](https://github.com/cedirusyaid/monitor_server)
