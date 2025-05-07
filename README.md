@@ -6,27 +6,25 @@ Hello! I am a passionate developer eager to contribute to open source and build 
 
 ## Skills & Technologies
 
-- Programming Languages: Python, JavaScript, PHP
+- Programming Languages: Python, JavaScript, PHP, Shell Script
 - Web Development: HTML, CSS, PHP
 - Databases: MySQL
 - Tools & Platforms: Git, Docker, AWS, Linux
 
 ## Projects
 
-### Project 1: Awesome Project  
-A brief description of your project, what it does, and the technologies used.  
-[GitHub Repository](https://github.com/yourusername/awesome-project)
+### Project 1: Serverguard 
+[GitHub Repository]([https://github.com/yourusername/awesome-project](https://github.com/cedirusyaid/serverguard))
 
-### Project 2: Another Cool Project  
-Description of another project with highlights and link.  
-[GitHub Repository](https://github.com/yourusername/another-cool-project)
+### Project 2: monitor server  
+[GitHub Repository]([https://github.com/cedirusyaid/another-cool-project](https://github.com/cedirusyaid/monitor_server)
+
 
 ## How to Reach Me
 
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Email: cedirusyaid@gmail.com  
+
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cedirusyaid&show_icons=true&theme=radical)
