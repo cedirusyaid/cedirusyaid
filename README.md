@@ -9,7 +9,7 @@ Hello! I am a passionate developer eager to contribute to open source and build 
 - Programming Languages: Shell Script, JavaScript, PHP, Python 
 - Web Development: HTML, CSS, PHP
 - Databases: MySQL
-- Tools & Platforms: Git, Docker, AWS, Linux
+- Tools & Platforms: Git, Linux
 
 ## Projects
 
