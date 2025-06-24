@@ -6,7 +6,7 @@ Hello! I am a passionate developer eager to contribute to open source and build 
 
 ## Skills & Technologies
 
-- Programming Languages: Shell Script, JavaScript, PHP, Python 
+- Programming Languages: PHP, Python, Shell Script, JavaScript 
 - Web Development: HTML, CSS, PHP
 - Databases: MySQL
 - Tools & Platforms: Git, Linux
