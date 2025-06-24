@@ -12,15 +12,6 @@ Hello! I am a passionate developer eager to contribute to open source and build 
 - Databases: MySQL
 - Tools & Platforms: Git, Linux
 
-## Projects
-
-### Project 1: Serverguard 
-[GitHub Repository]([https://github.com/yourusername/awesome-project](https://github.com/cedirusyaid/serverguard)])
-
-### Project 2: monitor server  
-[GitHub Repository]([https://github.com/cedirusyaid/another-cool-project](https://github.com/cedirusyaid/monitor_server)
-
-
 ## How to Reach Me
 
 - Email: cedirusyaid@gmail.com  
