@@ -1,41 +1,62 @@
-<h1 align="center">👋 Hello, I'm Rusyaid! </h1>
-<h3 align="center">A Passionate Full-Stack Developer from Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Cedi Rusyaid</h1>
+<h3 align="center">💻 Developer | 🐧 Linux Enthusiast | 🌐 Open Source Advocate</h3>
+
+---
+
+### 👨‍💻 About Me
+I’m a passionate developer who loves turning ideas into working code.  
+Currently focusing on **web development**, **automation**, and **Telegram bots** using **PHP**, **Python**, and **Shell scripting**.  
+I enjoy exploring new technologies, optimizing workflows, and sharing knowledge through open source projects.
+
+---
+
+### 🧠 Tech Stack
+
+#### 💬 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=php,python,bash,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=codeigniter" />
+</p>
+
+#### 🗄️ Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,linux,vscode" />
+</p>
+
+---
+
+### 🚀 Projects & Focus
+- 🤖 Building automation & Telegram bots with Python  
+- 🧩 Developing internal web apps using CodeIgniter  
+- 🛠️ Managing servers and network monitoring on Debian  
+- 📚 Teaching and mentoring students in programming & IT  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cedirusyaid&show_icons=true&theme=radical" alt="Cedi's GitHub stats" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/cedirusyaid">
-    <img src="https://komarev.com/ghpvc/?username=cedirusyaid&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cedirusyaid&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Connect With Me
+<p>
+  <a href="mailto:cedirusyaid@gmail.com">
+    <img src="https://img.shields.io/badge/Email-cedirusyaid%40gmail.com-red?style=flat&logo=gmail" />
   </a>
-  <a href="https://github.com/cedirusyaid?tab=followers">
-    <img src="https://img.shields.io/github/followers/cedirusyaid?label=Followers&style=social" alt="Followers" />
+  <a href="https://github.com/cedirusyaid">
+    <img src="https://img.shields.io/badge/GitHub-cedirusyaid-181717?style=flat&logo=github" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+### ⚡ Fun Fact
+> “Any sufficiently advanced technology is indistinguishable from magic.” – Arthur C. Clarke
 
-```php
-<?php
-
-class About extends Developer {
-    public $name = "Rusyaid";
-    public $role = "Full-Stack Developer";
-    public $passion = "Building impactful solutions";
-    public $location = "Indonesia";
-    
-    public function __construct() {
-        $this->skills = [
-            'backend' => ['PHP', 'CodeIgniter', 'MySQL'],
-            'frontend' => ['JavaScript', 'HTML', 'CSS'],
-            'tools' => ['Git', 'Linux', 'Shell Script'],
-            'learning' => ['Python', 'Open Source']
-        ];
-    }
-    
-    public function sayHello() {
-        return "Let's build something amazing together!";
-    }
-}
-
-
-
+---
