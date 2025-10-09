@@ -36,3 +36,23 @@ class About extends Developer {
         return "Let's build something amazing together!";
     }
 }
+
+
+
+
+💻 Tech Stack
+🛠️ Languages & Frameworks
+<p align="left"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </p>
+🗄️ Databases & Tools
+<p align="left"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> </p>
+📊 GitHub Analytics
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cedirusyaid&show_icons=true&theme=radical&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cedirusyaid&theme=radical&hide_border=true" /> </p><p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedirusyaid&layout=compact&theme=radical&hide_border=true" /> </p>
+🌟 Current Focus
+🔭 I'm currently working on open source projects
+🌱 I'm learning Python and advanced web development
+👯 I'm looking to collaborate on meaningful projects
+💬 Ask me about PHP, CodeIgniter, Web Development
+📫 How to reach me: cedirusyaid@gmail.com
+
+📫 Let's Connect!
+<p align="left"> <a href="mailto:cedirusyaid@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/cedirusyaid"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
