@@ -1,22 +1,148 @@
-# My GitHub Profile
+📁 File README.md Siap Download
 
-## About Me
+Buat file dengan nama README.md dan salin konten berikut:
 
-Hello! I am a passionate developer eager to contribute to open source and build impactful projects. This README serves as a brief introduction to who I am and what I do.
+```markdown
+<h1 align="center">👋 Hello, I'm Rusyaid! </h1>
+<h3 align="center">A Passionate Full-Stack Developer from Indonesia</h3>
 
+<p align="center">
+  <a href="https://github.com/cedirusyaid">
+    <img src="https://komarev.com/ghpvc/?username=cedirusyaid&color=blue&style=flat-square" alt="Profile views" />
+  </a>
+  <a href="https://github.com/cedirusyaid?tab=followers">
+    <img src="https://img.shields.io/github/followers/cedirusyaid?label=Followers&style=social" alt="Followers" />
+  </a>
+</p>
 
-## Skills & Technologies
-- Programming Languages: PHP, Python, Shell Script, JavaScript
-- Web Development: HTML, CSS, PHP
-- Frameworks: CodeIgniter (PHP)
-- Databases: MySQL
-- Tools & Platforms: Git, Linux
+---
 
-## How to Reach Me
+## 🚀 About Me
 
-- Email: cedirusyaid@gmail.com  
+```php
+<?php
 
+class About extends Developer {
+    public $name = "Rusyaid";
+    public $role = "Full-Stack Developer";
+    public $passion = "Building impactful solutions";
+    public $location = "Indonesia";
+    
+    public function __construct() {
+        $this->skills = [
+            'backend' => ['PHP', 'CodeIgniter', 'MySQL'],
+            'frontend' => ['JavaScript', 'HTML', 'CSS'],
+            'tools' => ['Git', 'Linux', 'Shell Script'],
+            'learning' => ['Python', 'Open Source']
+        ];
+    }
+    
+    public function sayHello() {
+        return "Let's build something amazing together!";
+    }
+}
+```
 
-## GitHub Stats
+💻 Tech Stack
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cedirusyaid&show_icons=true&theme=radical)
+🛠️ Languages & Frameworks
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+🗄️ Databases & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cedirusyaid&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=cedirusyaid&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedirusyaid&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+🌟 Current Focus
+
+· 🔭 I'm currently working on open source projects
+· 🌱 I'm learning Python and advanced web development
+· 👯 I'm looking to collaborate on meaningful projects
+· 💬 Ask me about PHP, CodeIgniter, Web Development
+· 📫 How to reach me: cedirusyaid@gmail.com
+
+📫 Let's Connect!
+
+<p align="left">
+  <a href="mailto:cedirusyaid@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/cedirusyaid">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/cedirusyaid/cedirusyaid/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+```
+
+🚀 Cara Menggunakan:
+
+1. Buat file baru di repository GitHub profile Anda dengan nama README.md
+2. Salin semua kode di atas dan tempel ke dalam file
+3. Commit changes langsung ke branch main
+
+⚙️ Setup Tambahan (Opsional):
+
+Untuk snake animation, Anda perlu:
+
+1. Buat repository dengan nama sama seperti username GitHub Anda (cedirusyaid)
+2. Tambahkan workflow di .github/workflows/snake.yml:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
+        with:
+          github_user_name: cedirusyaid
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
