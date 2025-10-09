@@ -33,16 +33,7 @@ I enjoy exploring new technologies, optimizing workflows, and sharing knowledge 
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cedirusyaid&show_icons=true&theme=radical" alt="Cedi's GitHub stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cedirusyaid&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 ### 📫 Connect With Me
 <p>
@@ -53,10 +44,5 @@ I enjoy exploring new technologies, optimizing workflows, and sharing knowledge 
     <img src="https://img.shields.io/badge/GitHub-cedirusyaid-181717?style=flat&logo=github" />
   </a>
 </p>
-
----
-
-### ⚡ Fun Fact
-> “Any sufficiently advanced technology is indistinguishable from magic.” – Arthur C. Clarke
 
 ---
