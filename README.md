@@ -30,7 +30,7 @@ I’m a passionate developer who loves turning ideas into working code. My journ
 
 | **Languages** | **Frontend & Backend** | **Tools & DevOps** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=php,python,bash" /> | <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery" /> | <img src="https://skillicons.dev/icons?i=mysql,git,linux,debian,vscode,nginx, sublime" /> |
+| <img src="https://skillicons.dev/icons?i=php,python,bash" /> | <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery" /> | <img src="https://skillicons.dev/icons?i=mysql,git,linux,debian,vscode,nginx" /> |
 
 </div>
 
