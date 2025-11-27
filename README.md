@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cedi Rusyaid</h1>
-<h3 align="center">💻 Developer | 🐧 Linux Enthusiast | 🌐 Open Source Advocate</h3>
+<h3 align="center">💻 Fullstack Developer | 🐧 Linux Enthusiast | 🌐 Open Source Advocate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3591F7&center=true&vCenter=true&width=435&lines=Web+Development+%26+Automation;Building+Telegram+Bots;Linux+Server+Management;PHP+%7C+Python+%7C+Shell+Scripting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3591F7&center=true&vCenter=true&width=435&lines=Fullstack+Web+Programming;Building+Telegram+Bots;Linux+Server+Management;PHP+%7C+Python+%7C+Shell+Scripting" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 
 ### 👨‍💻 About Me
 
-I’m a passionate developer who loves turning ideas into working code. My journey involves exploring the depths of **Linux systems** and automating mundane tasks to save time.
+I’m a passionate developer who loves turning ideas into working code. My journey involves exploring the depths of **Linux systems** and building scalable web applications.
 
-- 🔭 I’m currently working on **Internal Web Apps & Telegram Automation**.
+- 🔭 I’m currently working on **Fullstack Web Apps & Telegram Automation**.
 - 🌱 I’m currently learning **Advanced Python & DevOps practices**.
-- 💬 Ask me about **PHP (CodeIgniter), Shell Scripting, and Debian Server Administration**.
+- 💬 Ask me about **Fullstack Development (PHP/JS), Shell Scripting, and Debian Server Administration**.
 - ⚡ Fun fact: I can spend hours tweaking a shell script just to save 5 seconds of work.
 
 ---
@@ -28,9 +28,9 @@ I’m a passionate developer who loves turning ideas into working code. My journ
 
 <div align="center">
 
-| **Languages** | **Frameworks & Libs** | **Tools & DevOps** |
+| **Languages** | **Frontend & Backend** | **Tools & DevOps** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=php,python,bash,js,html,css" /> | <img src="https://skillicons.dev/icons?i=codeigniter,bootstrap,jquery" /> | <img src="https://skillicons.dev/icons?i=mysql,git,linux,debian,vscode,nginx" /> |
+| <img src="https://skillicons.dev/icons?i=php,python,bash" /> | <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery" /> | <img src="https://skillicons.dev/icons?i=mysql,git,linux,debian,vscode,nginx" /> |
 
 </div>
 
@@ -50,7 +50,7 @@ I’m a passionate developer who loves turning ideas into working code. My journ
 | Type | Description |
 | :--- | :--- |
 | 🤖 **Automation** | Building efficient **Telegram bots** using Python & Shell Scripting for notifications and task management. |
-| 🧩 **Web Apps** | Developing robust internal management systems using **CodeIgniter (PHP)**. |
+| 🌐 **Fullstack Web** | Developing dynamic & robust web applications using **PHP & Modern Web Technologies**. |
 | 🛠️ **DevOps** | Managing servers, network monitoring, and security hardening on **Debian Linux**. |
 | 📚 **Education** | Teaching and mentoring students in fundamental programming & IT skills. |
 
@@ -62,11 +62,16 @@ I’m a passionate developer who loves turning ideas into working code. My journ
   <a href="mailto:cedirusyaid@gmail.com">
     <img src="https://img.shields.io/badge/Email-cedirusyaid%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/USERNAME_TELEGRAM_ANDA">
-    <img src="https://img.shields.io/badge/Telegram-Chat%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://www.linkedin.com/in/muhammad-rusyaid-2b2976265/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Rusyaid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN_ANDA">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
+<p align="center">
+  <a href="https://t.me/CediRusyaid">
+    <img src="https://img.shields.io/badge/Telegram-@CediRusyaid-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/cedirusyaid">
+    <img src="https://img.shields.io/badge/Instagram-@cedirusyaid-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
