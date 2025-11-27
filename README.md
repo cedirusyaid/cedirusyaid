@@ -19,7 +19,7 @@ I’m a passionate developer who loves turning ideas into working code. My journ
 
 - 🔭 I’m currently working on **Fullstack Web Apps & Telegram Automation**.
 - 🌱 I’m currently learning **Advanced Python & DevOps practices**.
-- 💬 Ask me about **Fullstack Development (PHP/JS), Shell Scripting, and Debian Server Administration**.
+- 💬 Ask me about **Fullstack Development (PHP/JS), Shell Scripting, and Linux Server Administration**.
 - ⚡ Fun fact: I can spend hours tweaking a shell script just to save 5 seconds of work.
 
 ---
@@ -30,7 +30,7 @@ I’m a passionate developer who loves turning ideas into working code. My journ
 
 | **Languages** | **Frontend & Backend** | **Tools & DevOps** |
 |:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=php,python,bash" /> | <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery" /> | <img src="https://skillicons.dev/icons?i=mysql,git,linux,debian,vscode,nginx" /> |
+| <img src="https://skillicons.dev/icons?i=php,python,bash" /> | <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery" /> | <img src="https://skillicons.dev/icons?i=mysql,git,linux,debian,vscode,nginx, sublime" /> |
 
 </div>
 
@@ -51,7 +51,7 @@ I’m a passionate developer who loves turning ideas into working code. My journ
 | :--- | :--- |
 | 🤖 **Automation** | Building efficient **Telegram bots** using Python & Shell Scripting for notifications and task management. |
 | 🌐 **Fullstack Web** | Developing dynamic & robust web applications using **PHP & Modern Web Technologies**. |
-| 🛠️ **DevOps** | Managing servers, network monitoring, and security hardening on **Debian Linux**. |
+| 🛠️ **DevOps** | Managing servers, network monitoring, and security hardening on **Linux Systems**. |
 | 📚 **Education** | Teaching and mentoring students in fundamental programming & IT skills. |
 
 ---
