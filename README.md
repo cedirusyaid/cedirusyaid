@@ -67,6 +67,7 @@ I’m a passionate developer who loves turning ideas into working code. My journ
 | 🗺️ **[peta_desa](https://github.com/cedirusyaid/peta_desa)** | `PHP` | Sistem informasi spasial & pemetaan peta desa digital. |
 | 🐄 **[si_ternak](https://github.com/cedirusyaid/si_ternak)** | `JavaScript` | Aplikasi pengolahan data & manajemen peternakan. |
 | 🔄 **[sinkronisasi-presensi](https://github.com/cedirusyaid/sinkronisasi-presensi)** | `Shell` | Skrip otomasi sinkronisasi data presensi pegawai. |
+| 📁 **[termux-web-filemanager](https://github.com/cedirusyaid/termux-web-filemanager)** | `PHP` | Web-based file manager ringan yang dioptimalkan untuk lingkungan Termux & Android. |
 | 💾 **[mysql_backup_script](https://github.com/cedirusyaid/mysql_backup_script)** | `Shell` | Automated scheduled MySQL database backup utility. |
 
 </div>
