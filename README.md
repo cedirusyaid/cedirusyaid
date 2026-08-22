@@ -24,13 +24,22 @@ I’m a passionate developer who loves turning ideas into working code. My journ
 
 ---
 
-### 🧠 Tech Stack
+### 🧠 Tech Stack & Environment
 
 <div align="center">
 
 | **Languages** | **Frontend & Backend** | **Tools & DevOps** |
 |:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=php,python,bash" /> | <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery" /> | <img src="https://skillicons.dev/icons?i=mysql,git,linux,debian,ubuntu,vscode,sublime,nginx" /> |
+
+<br/>
+
+**📱 Mobile, Environment & Remote Management:**
+
+![](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
+![](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
+![](https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=white)
+![](https://img.shields.io/badge/Tailscale-000000?style=for-the-badge&logo=tailscale&logoColor=white)
 
 </div>
 
