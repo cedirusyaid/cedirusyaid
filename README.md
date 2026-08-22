@@ -49,10 +49,27 @@ I’m a passionate developer who loves turning ideas into working code. My journ
 
 | Type | Description |
 | :--- | :--- |
-| 🤖 **Automation** | Building efficient **Telegram bots** using Python & Shell Scripting for notifications and task management. |
-| 🌐 **Fullstack Web** | Developing dynamic & robust web applications using **PHP & Modern Web Technologies**. |
-| 🛠️ **DevOps** | Managing servers, network monitoring, and security hardening on **Linux Systems**. |
-| 📚 **Education** | Teaching and mentoring students in fundamental programming & IT skills. |
+| 🌐 **Fullstack Web** | Developing web applications like **[manajemen-masjid](https://github.com/cedirusyaid/manajemen-masjid)**, **[peta_desa](https://github.com/cedirusyaid/peta_desa)**, **e-kinerja**, & **[si_ternak](https://github.com/cedirusyaid/si_ternak)**. |
+| 🛠️ **DevOps & Automation** | Building server hardening & utility scripts like **[serverguard](https://github.com/cedirusyaid/serverguard)**, **[mysql_backup_script](https://github.com/cedirusyaid/mysql_backup_script)**, & **[sinkronisasi-presensi](https://github.com/cedirusyaid/sinkronisasi-presensi)**. |
+| 🤖 **Telegram & Linux Tools** | Creating system monitors, Linux desktop watchers (**[battery_watcher_for_linux](https://github.com/cedirusyaid/battery_watcher_for_linux)**), and automation bots. |
+| 📚 **Education** | Mentoring students and sharing open-source utilities for developers and community management. |
+
+---
+
+### ⭐ Featured Repositories
+
+<div align="center">
+
+| Repository | Tech | Description |
+| :--- | :---: | :--- |
+| 🕌 **[manajemen-masjid](https://github.com/cedirusyaid/manajemen-masjid)** | `PHP` | Aplikasi manajemen & digitalisasi masjid (ZIS/QRIS, jadwal petugas, transparansi keuangan). |
+| 🛡️ **[serverguard](https://github.com/cedirusyaid/serverguard)** | `Shell` | Automated Linux server monitoring & security hardening utility. |
+| 🗺️ **[peta_desa](https://github.com/cedirusyaid/peta_desa)** | `PHP` | Sistem informasi spasial & pemetaan peta desa digital. |
+| 🐄 **[si_ternak](https://github.com/cedirusyaid/si_ternak)** | `JavaScript` | Aplikasi pengolahan data & manajemen peternakan. |
+| 🔄 **[sinkronisasi-presensi](https://github.com/cedirusyaid/sinkronisasi-presensi)** | `Shell` | Skrip otomasi sinkronisasi data presensi pegawai. |
+| 💾 **[mysql_backup_script](https://github.com/cedirusyaid/mysql_backup_script)** | `Shell` | Automated scheduled MySQL database backup utility. |
+
+</div>
 
 ---
 
