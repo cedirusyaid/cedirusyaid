@@ -48,8 +48,8 @@ I’m a passionate developer who loves turning ideas into working code. My journ
 ### 📊 GitHub Statistics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cedirusyaid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cedirusyaid&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=cedirusyaid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cedirusyaid&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <br/>
