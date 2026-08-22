@@ -81,26 +81,15 @@ I’m a passionate developer who loves turning ideas into working code. My journ
 
 <div align="center">
 
-<a href="https://github.com/cedirusyaid/manajemen-masjid">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cedirusyaid&repo=manajemen-masjid&theme=tokyonight&hide_border=true" alt="manajemen-masjid" />
-</a>
-<a href="https://github.com/cedirusyaid/serverguard">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cedirusyaid&repo=serverguard&theme=tokyonight&hide_border=true" alt="serverguard" />
-</a>
-
-<a href="https://github.com/cedirusyaid/termux-web-filemanager">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cedirusyaid&repo=termux-web-filemanager&theme=tokyonight&hide_border=true" alt="termux-web-filemanager" />
-</a>
-<a href="https://github.com/cedirusyaid/peta_desa">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cedirusyaid&repo=peta_desa&theme=tokyonight&hide_border=true" alt="peta_desa" />
-</a>
-
-<a href="https://github.com/cedirusyaid/si_ternak">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cedirusyaid&repo=si_ternak&theme=tokyonight&hide_border=true" alt="si_ternak" />
-</a>
-<a href="https://github.com/cedirusyaid/sinkronisasi-presensi">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cedirusyaid&repo=sinkronisasi-presensi&theme=tokyonight&hide_border=true" alt="sinkronisasi-presensi" />
-</a>
+| Repository | Tech | Description |
+| :--- | :---: | :--- |
+| 🕌 **[manajemen-masjid](https://github.com/cedirusyaid/manajemen-masjid)** | `PHP` | Aplikasi manajemen & digitalisasi masjid (ZIS/QRIS, jadwal petugas, transparansi keuangan). |
+| 🛡️ **[serverguard](https://github.com/cedirusyaid/serverguard)** | `Shell` | Automated Linux server monitoring & security hardening utility. |
+| 🗺️ **[peta_desa](https://github.com/cedirusyaid/peta_desa)** | `PHP` | Sistem informasi spasial & pemetaan peta desa digital. |
+| 🐄 **[si_ternak](https://github.com/cedirusyaid/si_ternak)** | `JavaScript` | Aplikasi pengolahan data & manajemen peternakan. |
+| 🔄 **[sinkronisasi-presensi](https://github.com/cedirusyaid/sinkronisasi-presensi)** | `Shell` | Skrip otomasi sinkronisasi data presensi pegawai. |
+| 📁 **[termux-web-filemanager](https://github.com/cedirusyaid/termux-web-filemanager)** | `PHP` | Web-based file manager ringan yang dioptimalkan untuk lingkungan Termux & Android. |
+| 💾 **[mysql_backup_script](https://github.com/cedirusyaid/mysql_backup_script)** | `Shell` | Automated scheduled MySQL database backup utility. |
 
 </div>
 
